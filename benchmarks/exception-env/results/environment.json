@@ -1,0 +1,23 @@
+{
+  "startedAt": "2026-09-04T11:01:27.450Z",
+  "completedAt": "2026-09-04T11:02:17.627Z",
+  "host": "ProductName:\t\tmacOS\nProductVersion:\t\t26.6.2\nBuildVersion:\t\t25G83\n",
+  "hardware": "Apple M2 Pro\n",
+  "device": "Android 14, API 34, arm64-v8a, Pixel_7_Pro_API_34 AVD, Android Emulator 35.6.11",
+  "fingerprint": "google/sdk_gphone64_arm64/emu64a:14/UPB5.230623.003/10615560:user/release-keys",
+  "beforeCommit": "f2f5cf19817a0b3664c9c5320d3b798c458542c3",
+  "afterCommit": "45a82454e1440bceb3d88a8c33d210b1bebb45fc",
+  "libraryCompileCommand": "<NDK>/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=<NDK>/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dfbjni_EXPORTS -I<SOURCE>/cxx -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC -Wall -std=c++20 -pthread -fno-omit-frame-pointer -fexceptions -frtti -ffunction-sections -O3 -DNDEBUG -DBUILDING_FBJNI -o CMakeFiles/fbjni.dir/cxx/fbjni/detail/Exceptions.cpp.o -c <SOURCE>/cxx/fbjni/detail/Exceptions.cpp",
+  "files": {
+    "EnvBenchmark.cpp": "d415c7e81ded1456353bdff9ab0dc7b404e60bde76548f9153d446df8a1b7fdf",
+    "EnvBenchmark.java": "8b553baf5c8e08621cabfae901616317c0dfbcedcd45006b01947375b6a1be56",
+    "PLAN.md": "62173267cf228636f69d824b28b3cf3d7312ca15a5c9a8c16aa95d6cd871f78d",
+    "dex/classes.dex": "c347e465432577836c4cf70ac9848445482b0cf6a3a32502c491db1b5fe309b5",
+    "android-before/libfbjni.so": "2f6bc2ae53f112dd452eb7960f3aec4ce9ff72336347904cf8d3eda6e797ad77",
+    "android-before/libenv-bench.so": "55dc620b6db631e096455a2ade88d923ebb812f8ffe432e583bc07a426ad6017",
+    "android-before/libc++_shared.so": "e69496a4aeb51ebe61d0775ae9fefc76eee640f12317aa5174da67e5d4ec8fd6",
+    "android-after/libfbjni.so": "0bb2157fd90a28f27c66d1ac9f9b2fb696c895486871002498995676acad9150",
+    "android-after/libenv-bench.so": "a7e71ce25a61c8ca20fa69cbc5f636173529367a9378fdce87d7f9d657e2f7ca",
+    "android-after/libc++_shared.so": "e69496a4aeb51ebe61d0775ae9fefc76eee640f12317aa5174da67e5d4ec8fd6"
+  }
+}

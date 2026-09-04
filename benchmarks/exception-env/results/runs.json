@@ -1,0 +1,4898 @@
+[
+  {
+    "block": 0,
+    "position": 0,
+    "version": "before",
+    "label": "block-0-position-0-before",
+    "startedAt": "2026-09-04T11:01:27.538Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6788000
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36610708
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37237792
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7501625
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6062084
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37140917
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36923292
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7425417
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7621208
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37076250
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37069625
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7670000
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7912333
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36163083
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36277459
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7357000
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7937583
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36326292
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36885667
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7273834
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6065041
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36206708
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36254125
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7808542
+      }
+    ]
+  },
+  {
+    "block": 0,
+    "position": 1,
+    "version": "after",
+    "label": "block-0-position-1-after",
+    "startedAt": "2026-09-04T11:01:29.229Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1726750
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27640041
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26941541
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1870250
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1875417
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26612875
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27092750
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1878958
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1801583
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26932250
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26996042
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1834250
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1874500
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27053750
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26659917
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1876167
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1828042
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27145125
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27645208
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1825166
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1821709
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28133625
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27192416
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1872709
+      }
+    ]
+  },
+  {
+    "block": 0,
+    "position": 2,
+    "version": "after",
+    "label": "block-0-position-2-after",
+    "startedAt": "2026-09-04T11:01:30.704Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2042083
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 33155417
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 33070333
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1854250
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1822583
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 33151583
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 33448000
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1859416
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1871333
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34030250
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 33724375
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1844750
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1858417
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 33806042
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34128125
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1839708
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2059792
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 33151833
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 33486125
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1885292
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1724959
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34040166
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 33830542
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1835458
+      }
+    ]
+  },
+  {
+    "block": 0,
+    "position": 3,
+    "version": "before",
+    "label": "block-0-position-3-before",
+    "startedAt": "2026-09-04T11:01:32.284Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7601584
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35112542
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37032250
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7396125
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7199875
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35265458
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35426167
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7206291
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7474709
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35057833
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35496500
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7854958
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6775708
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35450750
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36663875
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6926459
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7327500
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35896416
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35242000
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7680291
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7254583
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35023042
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35460750
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7423458
+      }
+    ]
+  },
+  {
+    "block": 1,
+    "position": 0,
+    "version": "after",
+    "label": "block-1-position-0-after",
+    "startedAt": "2026-09-04T11:01:33.967Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1772750
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28081208
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28096125
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1841792
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1798875
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27990000
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28423833
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1896042
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1788417
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27868375
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27913791
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1812792
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1812708
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27876000
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27663583
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1854417
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1851625
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28149375
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27404333
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1787625
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2059208
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27751042
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28147250
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1840792
+      }
+    ]
+  },
+  {
+    "block": 1,
+    "position": 1,
+    "version": "before",
+    "label": "block-1-position-1-before",
+    "startedAt": "2026-09-04T11:01:35.431Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5894292
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31602709
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31211417
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6004125
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8191250
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31141833
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31385542
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6831208
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6175333
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31076250
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31340542
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7818084
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6137708
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31954042
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31960708
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7936834
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6617125
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31723834
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31139459
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8310209
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7912667
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31050750
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31097750
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6867000
+      }
+    ]
+  },
+  {
+    "block": 1,
+    "position": 2,
+    "version": "before",
+    "label": "block-1-position-2-before",
+    "startedAt": "2026-09-04T11:01:37.046Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8313250
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31440000
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31481209
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8798792
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 9195625
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31550667
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31244208
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 9151125
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 9189166
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31665000
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31340625
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6915791
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6038958
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31425333
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31788083
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6915792
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 9488292
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31448750
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31319292
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8502625
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7118250
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31012583
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31261042
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8122833
+      }
+    ]
+  },
+  {
+    "block": 1,
+    "position": 3,
+    "version": "after",
+    "label": "block-1-position-3-after",
+    "startedAt": "2026-09-04T11:01:38.682Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1848625
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26754833
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26818750
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1835042
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1832000
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27138041
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26974125
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1854083
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1837583
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27155875
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26616584
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1845833
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1850708
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26825833
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26654708
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1945834
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1843000
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26901042
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27030500
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1786125
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2048708
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26321458
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26768042
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1985333
+      }
+    ]
+  },
+  {
+    "block": 2,
+    "position": 0,
+    "version": "before",
+    "label": "block-2-position-0-before",
+    "startedAt": "2026-09-04T11:01:40.119Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5675292
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31740584
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31671916
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7494125
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8405500
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31289792
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31816375
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7589250
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8918541
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31928291
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31502625
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8078333
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8098709
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31314250
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31982500
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7480708
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7846833
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31530209
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31274750
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8142750
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7764292
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31736916
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 32133750
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7810083
+      }
+    ]
+  },
+  {
+    "block": 2,
+    "position": 1,
+    "version": "after",
+    "label": "block-2-position-1-after",
+    "startedAt": "2026-09-04T11:01:41.735Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1771625
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26945875
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26851084
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1868500
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1876834
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27149667
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26940292
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1913167
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1864917
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26901542
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27221666
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1823126
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2046416
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26887417
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27002666
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1852459
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1893500
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26828625
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26971459
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1937917
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1806417
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26514584
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26783958
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1835458
+      }
+    ]
+  },
+  {
+    "block": 2,
+    "position": 2,
+    "version": "after",
+    "label": "block-2-position-2-after",
+    "startedAt": "2026-09-04T11:01:43.183Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1815083
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28537500
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27860625
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1843333
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1791500
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28454959
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27909208
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1880625
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1826251
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28219750
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28131625
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1867750
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1835041
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28610167
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28599958
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1849875
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1862083
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28267333
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28462000
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1826250
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1827083
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27693667
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28320417
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1852750
+      }
+    ]
+  },
+  {
+    "block": 2,
+    "position": 3,
+    "version": "before",
+    "label": "block-2-position-3-before",
+    "startedAt": "2026-09-04T11:01:44.649Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7437708
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 39983959
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 39762167
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7724917
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6536875
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 39134291
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 39802208
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7429792
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7678958
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 39480750
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 40027250
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7387917
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7945834
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 40014708
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 39491416
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8032084
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7234750
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 39722459
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 39856791
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7729000
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7895583
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 39146958
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 39925750
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7895958
+      }
+    ]
+  },
+  {
+    "block": 3,
+    "position": 0,
+    "version": "after",
+    "label": "block-3-position-0-after",
+    "startedAt": "2026-09-04T11:01:46.407Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1778417
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26800167
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26634708
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1862625
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1976125
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26546666
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26988666
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1887250
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1830833
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27002041
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26201083
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1915083
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1818500
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26790750
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27518542
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1894084
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1927334
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28188750
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28252041
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1889375
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1948167
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26737917
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26787500
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1915209
+      }
+    ]
+  },
+  {
+    "block": 3,
+    "position": 1,
+    "version": "before",
+    "label": "block-3-position-1-before",
+    "startedAt": "2026-09-04T11:01:47.859Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5465542
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36267541
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36920459
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5473167
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5757083
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36989875
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36760500
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5523166
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5582250
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37111958
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37168000
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5492667
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5425250
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36757125
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36542584
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5531083
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5485209
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36784333
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36833875
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5710958
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5695333
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36498792
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36691541
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5598417
+      }
+    ]
+  },
+  {
+    "block": 3,
+    "position": 2,
+    "version": "before",
+    "label": "block-3-position-2-before",
+    "startedAt": "2026-09-04T11:01:49.544Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5636541
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30059583
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29756875
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5715125
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5384708
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29861500
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29929959
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5500834
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5576042
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29730083
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29715667
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5842334
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5797834
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29993500
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30073875
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5462500
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5615834
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29578250
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29649833
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5425666
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5565334
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29862416
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29896709
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5491542
+      }
+    ]
+  },
+  {
+    "block": 3,
+    "position": 3,
+    "version": "after",
+    "label": "block-3-position-3-after",
+    "startedAt": "2026-09-04T11:01:51.098Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1788000
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29265416
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29100125
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1959041
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2065250
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29369709
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29462916
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1957250
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1948375
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29148125
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29241958
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1911250
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1928416
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29446250
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29697750
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1981500
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1960583
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29248208
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29381667
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2113250
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1903834
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29365833
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29644625
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1987250
+      }
+    ]
+  },
+  {
+    "block": 4,
+    "position": 0,
+    "version": "before",
+    "label": "block-4-position-0-before",
+    "startedAt": "2026-09-04T11:01:52.601Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7442209
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34615084
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34516000
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7526458
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7440667
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34541042
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34897208
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7951417
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7726084
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34304375
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34705542
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8877833
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8783250
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35092042
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35352375
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7390667
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7251208
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34459042
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34600459
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 9670667
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 9102542
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34510708
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34321333
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7521959
+      }
+    ]
+  },
+  {
+    "block": 4,
+    "position": 1,
+    "version": "after",
+    "label": "block-4-position-1-after",
+    "startedAt": "2026-09-04T11:01:54.301Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1826166
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28415458
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28073875
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1832291
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1870583
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28397208
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28453083
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1853041
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1949625
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28083542
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28428417
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1879459
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1856666
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28247959
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28424958
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1856167
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1855042
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28310041
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28024458
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1985292
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1818375
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28100542
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27983291
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1824166
+      }
+    ]
+  },
+  {
+    "block": 4,
+    "position": 2,
+    "version": "after",
+    "label": "block-4-position-2-after",
+    "startedAt": "2026-09-04T11:01:55.784Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1812083
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28570167
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30872583
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1820459
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1793125
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31959042
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 33796625
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 12194083
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1866875
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29558125
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28690833
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1988791
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1962875
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28756333
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28637125
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1826750
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1859166
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29097958
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28839875
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1873916
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1838625
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28334458
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28674125
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1836000
+      }
+    ]
+  },
+  {
+    "block": 4,
+    "position": 3,
+    "version": "before",
+    "label": "block-4-position-3-before",
+    "startedAt": "2026-09-04T11:01:57.304Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8232334
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29897500
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29806042
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8389625
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8152167
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29958292
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29711416
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7964125
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8178458
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29797125
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30016166
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7668917
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7844209
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29783792
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30033084
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8709708
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7897000
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29822667
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30001166
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7159958
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7281167
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29894750
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29507458
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7070250
+      }
+    ]
+  },
+  {
+    "block": 5,
+    "position": 0,
+    "version": "after",
+    "label": "block-5-position-0-after",
+    "startedAt": "2026-09-04T11:01:58.906Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1740375
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26988166
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27069292
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1953875
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1949792
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26927833
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27355875
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2152750
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1923750
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27060875
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27028333
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1952875
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1962584
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26949875
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26443333
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2063959
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1919375
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26918250
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26715750
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2056042
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2104042
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26923000
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27217625
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2165292
+      }
+    ]
+  },
+  {
+    "block": 5,
+    "position": 1,
+    "version": "before",
+    "label": "block-5-position-1-before",
+    "startedAt": "2026-09-04T11:02:00.354Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6321666
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36350833
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36639542
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8083916
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6818667
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 38556833
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36515833
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8139375
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8111917
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37731000
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36912250
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8930000
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7866667
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36596292
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37140167
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8043583
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8098792
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36846500
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37025000
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8512500
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8081000
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36712250
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37129750
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8454000
+      }
+    ]
+  },
+  {
+    "block": 5,
+    "position": 2,
+    "version": "before",
+    "label": "block-5-position-2-before",
+    "startedAt": "2026-09-04T11:02:02.065Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7121834
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37630125
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37583458
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7602375
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 6899041
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37091834
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36142125
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8364584
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7960834
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 38554333
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37951875
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8369417
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8371666
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 36023417
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37413709
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8090791
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7980125
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 34900834
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35569709
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8192167
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8018041
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 35816208
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 38742959
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8240208
+      }
+    ]
+  },
+  {
+    "block": 5,
+    "position": 3,
+    "version": "after",
+    "label": "block-5-position-3-after",
+    "startedAt": "2026-09-04T11:02:03.784Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2041750
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26784250
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26911875
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1960917
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1903708
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27223084
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27010916
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1943125
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2298084
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27091375
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27080542
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1932708
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1939291
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26930208
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27065167
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1963000
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1952875
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26903583
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27297375
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1975125
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1971000
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27097667
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27147833
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1987500
+      }
+    ]
+  },
+  {
+    "block": 6,
+    "position": 0,
+    "version": "before",
+    "label": "block-6-position-0-before",
+    "startedAt": "2026-09-04T11:02:05.228Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8068292
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29739833
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29994625
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7286208
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7832667
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29983167
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29671917
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7663042
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7372208
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30114666
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30610083
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7506667
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7901834
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29930083
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30012083
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8260083
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7475750
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30098959
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29816583
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8361375
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7661083
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30027000
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29817167
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7574084
+      }
+    ]
+  },
+  {
+    "block": 6,
+    "position": 1,
+    "version": "after",
+    "label": "block-6-position-1-after",
+    "startedAt": "2026-09-04T11:02:06.829Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1783875
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31887292
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31787792
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1933708
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1931917
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31658125
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31572750
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1950625
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1947958
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31489250
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31663167
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1949792
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1935084
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31955667
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31772667
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2088959
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2075208
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31338000
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31550583
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1961000
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2101583
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31223833
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 37031958
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2001542
+      }
+    ]
+  },
+  {
+    "block": 6,
+    "position": 2,
+    "version": "after",
+    "label": "block-6-position-2-after",
+    "startedAt": "2026-09-04T11:02:08.359Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1891166
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28240458
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28289584
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1858625
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1821791
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28407542
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28512500
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2055916
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1862667
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27561792
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 27982917
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1823500
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1805042
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28439542
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28249917
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1846459
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1839375
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28581042
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28282583
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2092125
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1830708
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28356000
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 28806250
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1856459
+      }
+    ]
+  },
+  {
+    "block": 6,
+    "position": 3,
+    "version": "before",
+    "label": "block-6-position-3-before",
+    "startedAt": "2026-09-04T11:02:09.838Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5489751
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29639916
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29855583
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5586750
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5453958
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30123042
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29994958
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5570375
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5497750
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30024042
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29947583
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5488417
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5535583
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29934333
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30204083
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5525333
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5525500
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30254083
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30017875
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5447458
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5326208
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29706750
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29714208
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 5539542
+      }
+    ]
+  },
+  {
+    "block": 7,
+    "position": 0,
+    "version": "after",
+    "label": "block-7-position-0-after",
+    "startedAt": "2026-09-04T11:02:11.403Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1801458
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26726292
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26963208
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1835417
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1779959
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26649500
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26579833
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1844042
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1847417
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26728667
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26474500
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1807833
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1863833
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26697125
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26763458
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1866667
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1816500
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26835792
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26549958
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1869333
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1859334
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26463250
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 26712333
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1868333
+      }
+    ]
+  },
+  {
+    "block": 7,
+    "position": 1,
+    "version": "before",
+    "label": "block-7-position-1-before",
+    "startedAt": "2026-09-04T11:02:12.840Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7283625
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30061833
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29925334
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 9426500
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 10337375
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29959709
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30068042
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 10021708
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8036834
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30450750
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30023792
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 9158834
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 9343500
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29993834
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29801917
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 9820125
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 10644292
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30047292
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29768583
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7686083
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 10589917
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29779250
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29951333
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7937334
+      }
+    ]
+  },
+  {
+    "block": 7,
+    "position": 2,
+    "version": "before",
+    "label": "block-7-position-2-before",
+    "startedAt": "2026-09-04T11:02:14.462Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7897166
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30425500
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30166792
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8051833
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7976334
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30032000
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30201125
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7988041
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7840542
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30389791
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30152000
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7999000
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8117750
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29963292
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30108625
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7873166
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7774250
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30264167
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30160916
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7889791
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 8134166
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 30293167
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 29958375
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 7892042
+      }
+    ]
+  },
+  {
+    "block": 7,
+    "position": 3,
+    "version": "after",
+    "label": "block-7-position-3-after",
+    "startedAt": "2026-09-04T11:02:16.078Z",
+    "samples": [
+      {
+        "sample": 0,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1780750
+      },
+      {
+        "sample": 0,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 32550458
+      },
+      {
+        "sample": 1,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 32242542
+      },
+      {
+        "sample": 1,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1887042
+      },
+      {
+        "sample": 2,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1864667
+      },
+      {
+        "sample": 2,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 32530042
+      },
+      {
+        "sample": 3,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 32036500
+      },
+      {
+        "sample": 3,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 2017209
+      },
+      {
+        "sample": 4,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1856666
+      },
+      {
+        "sample": 4,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 32151209
+      },
+      {
+        "sample": 5,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 31864000
+      },
+      {
+        "sample": 5,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1996375
+      },
+      {
+        "sample": 6,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1751916
+      },
+      {
+        "sample": 6,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 32591667
+      },
+      {
+        "sample": 7,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 32415083
+      },
+      {
+        "sample": 7,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1856833
+      },
+      {
+        "sample": 8,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1857750
+      },
+      {
+        "sample": 8,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 32227958
+      },
+      {
+        "sample": 9,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 32219041
+      },
+      {
+        "sample": 9,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1838750
+      },
+      {
+        "sample": 10,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1861958
+      },
+      {
+        "sample": 10,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 32118167
+      },
+      {
+        "sample": 11,
+        "scenario": 1,
+        "iterations": 1000000,
+        "nanos": 32190583
+      },
+      {
+        "sample": 11,
+        "scenario": 0,
+        "iterations": 1000000,
+        "nanos": 1827083
+      }
+    ]
+  }
+]
