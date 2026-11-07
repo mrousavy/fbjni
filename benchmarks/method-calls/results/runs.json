@@ -1,0 +1,4466 @@
+[
+  {
+    "pair": 0,
+    "position": 0,
+    "variant": "before",
+    "seed": 20261107,
+    "unix_start_s": 1794052585.328425,
+    "samples": [
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5060542
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 3814334
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 6532792
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10890000
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5860834
+      },
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4186125
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 3465542
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4791958
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4328209
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10757084
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 2264375
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4861834
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4363792
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5248750
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 4996333
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5978208
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 6473916
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4745416
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4837834
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3251416
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5948750
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4179667
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 4674167
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5204459
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10888708
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 6469875
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4412750
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5186666
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3095041
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 6019000
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4508042
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4320417
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4743917
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10673125
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 6504916
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3533792
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 2304333
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5845333
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10879125
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4724083
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4398416
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 6440417
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5402083
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4127125
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 4970667
+      }
+    ]
+  },
+  {
+    "pair": 0,
+    "position": 1,
+    "variant": "after",
+    "seed": 20261107,
+    "unix_start_s": 1794052586.5865479,
+    "samples": [
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4245208
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 2354750
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5759958
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10630250
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4810792
+      },
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3381375
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 2928083
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5147875
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3668083
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10150875
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 2152333
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3314666
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3701167
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4307875
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 4562292
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4784917
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5670542
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4905958
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4901917
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 2196833
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4868750
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3298166
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3723875
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4376000
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10554834
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5709333
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3673042
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4380000
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3661916
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4864500
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3594917
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3319167
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4936625
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10594542
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5615375
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 2116292
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3442958
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4881041
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10396584
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4915333
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3676166
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5637958
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4349791
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3166625
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3690458
+      }
+    ]
+  },
+  {
+    "pair": 1,
+    "position": 0,
+    "variant": "after",
+    "seed": 20261108,
+    "unix_start_s": 1794052587.8095942,
+    "samples": [
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4634417
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4867958
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3609291
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 2518083
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 11974959
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4265834
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5581125
+      },
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3235583
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 2876416
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10495250
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5685292
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 2941709
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3388375
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4769834
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3719042
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4272000
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3577958
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4816917
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5626542
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4209292
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4795208
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3224833
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3551708
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4796042
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3787958
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3437458
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10374417
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4307542
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 2079000
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4898084
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5546792
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3613209
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3675666
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10629583
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3215750
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4776375
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3246417
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4250208
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3556208
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10545750
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5698042
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4841834
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3103792
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5004625
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 2819208
+      }
+    ]
+  },
+  {
+    "pair": 1,
+    "position": 1,
+    "variant": "before",
+    "seed": 20261108,
+    "unix_start_s": 1794052589.02436,
+    "samples": [
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5835708
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5100208
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4491041
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 4085833
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10657042
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5226292
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 6541625
+      },
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4267459
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 4494291
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10904792
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 6578000
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3922750
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4247291
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4880792
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 2423000
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5261125
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4557291
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5967959
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 6561875
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5266083
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4908792
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4283000
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4549792
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 6051042
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3941875
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3078333
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10619791
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5212958
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 2383500
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5872042
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 6517084
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4474833
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3830958
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10664292
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4280250
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4944834
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4218042
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5309583
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4464083
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10948875
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 6506916
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 6040958
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 2159292
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4880833
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 2864000
+      }
+    ]
+  },
+  {
+    "pair": 2,
+    "position": 0,
+    "variant": "before",
+    "seed": 20261109,
+    "unix_start_s": 1794052590.2706308,
+    "samples": [
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4286041
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 2078417
+      },
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4455916
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 4654500
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4929166
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5256292
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 6075125
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 11396625
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 6634458
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5874875
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5282500
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4246625
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4914167
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10557834
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3079834
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 2277375
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4361792
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 6412417
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5811166
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5249208
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3945708
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10898542
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3879417
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4509917
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4154584
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4929125
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 6474791
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5856625
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 2964541
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4372041
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4743667
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10977166
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 6428667
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4153042
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5167209
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3756791
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4498041
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4742625
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10685833
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5215959
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 2324792
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3937083
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 6444500
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 6017667
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4140750
+      }
+    ]
+  },
+  {
+    "pair": 2,
+    "position": 1,
+    "variant": "after",
+    "seed": 20261109,
+    "unix_start_s": 1794052591.530165,
+    "samples": [
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3353541
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 2206125
+      },
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3359542
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 4570958
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4666167
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4270250
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4911166
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10490333
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5659625
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4777833
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4251833
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3246959
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4880291
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10577833
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 2724291
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 4064042
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3607667
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5646209
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4905917
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4291541
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 2199916
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10422458
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3702208
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3520333
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3224959
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4810584
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5624125
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4763500
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 4402291
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3565417
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4767667
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10624917
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5578958
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3100958
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4259125
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3108625
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3607583
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4783709
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10462208
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4373542
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 2118417
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 4817875
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5685042
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4749416
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3230291
+      }
+    ]
+  },
+  {
+    "pair": 3,
+    "position": 0,
+    "variant": "after",
+    "seed": 20261110,
+    "unix_start_s": 1794052592.741995,
+    "samples": [
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3094375
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4105500
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5075875
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4765209
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3545750
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 3980458
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10408875
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5552042
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 2853583
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5541667
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3263292
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3521125
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4312250
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10420250
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4897875
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4764416
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 2481917
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 4373292
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3044333
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4797250
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4312208
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4823208
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3570375
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3560958
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10342000
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3233833
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5573209
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10676959
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4762375
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3536250
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4891916
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3624208
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3240209
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5572083
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3540750
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4298875
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 2174625
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4358333
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4697167
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3542417
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3610917
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4718584
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3208708
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5683500
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10447833
+      }
+    ]
+  },
+  {
+    "pair": 3,
+    "position": 1,
+    "variant": "before",
+    "seed": 20261110,
+    "unix_start_s": 1794052593.963972,
+    "samples": [
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4027833
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5185417
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5867500
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4792500
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4343459
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 3696500
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 11054292
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 6402000
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 3193583
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 6628000
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4213208
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4374375
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5231709
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10711166
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4842000
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5768083
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 2231708
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 4914250
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 2271458
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5757584
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5202209
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4824333
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4538916
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3887375
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10735334
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4174500
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 6357459
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10529709
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4797708
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4413666
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5736500
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3840250
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4261959
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 6562250
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 2265667
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5178208
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3282583
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5197042
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5819583
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4328791
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3833458
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4767917
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4195875
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 6494292
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10809042
+      }
+    ]
+  },
+  {
+    "pair": 4,
+    "position": 0,
+    "variant": "before",
+    "seed": 20261111,
+    "unix_start_s": 1794052595.2120981,
+    "samples": [
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5599542
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5355209
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4830834
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10775042
+      },
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4169917
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4410750
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 6399250
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 4155750
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 2802792
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5280750
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10759791
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4357209
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5942917
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4795250
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 6446667
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3870208
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3883916
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4042750
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 6444500
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4244250
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4850125
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3743583
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4379208
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5792083
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5246542
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3981250
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10671416
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 2379958
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 6525083
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4182084
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3851667
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4326000
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10816125
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5996833
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5157875
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4841792
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4279250
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10848125
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5736375
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 6410125
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 2369666
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5171625
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3858792
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4842083
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4172209
+      }
+    ]
+  },
+  {
+    "pair": 4,
+    "position": 1,
+    "variant": "after",
+    "seed": 20261111,
+    "unix_start_s": 1794052596.4548538,
+    "samples": [
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4691292
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5034041
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4789875
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10341334
+      },
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3239125
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3510792
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5692833
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 2124542
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 4460334
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4304667
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10632667
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3495333
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4775292
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4785000
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5668875
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3610584
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3701959
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3282167
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5591750
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3270708
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4922333
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 2105500
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3365750
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4766083
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4310458
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3817875
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10561541
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 2083333
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5650417
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3233875
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3742250
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3531625
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10527084
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4789833
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4393625
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4834250
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3556875
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10573667
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4789333
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5613584
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 2123542
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4319125
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3775541
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4809833
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3241000
+      }
+    ]
+  },
+  {
+    "pair": 5,
+    "position": 0,
+    "variant": "after",
+    "seed": 20261112,
+    "unix_start_s": 1794052597.661124,
+    "samples": [
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3136750
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4383625
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10624083
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5706458
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3591166
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4859750
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4893958
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 3900500
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 2841583
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4780959
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4259292
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10613083
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3437291
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3062708
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3531041
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4829708
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5601833
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3900958
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10773791
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4878208
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3768709
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4350291
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3267792
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 2099834
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4857292
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3602417
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5580250
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 4181791
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3518000
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10612083
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5713000
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4835083
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3766584
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4188000
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4917667
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 2129291
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3477625
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4826625
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3197709
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5618750
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 2810958
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4795083
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4386750
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10342042
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3522042
+      }
+    ]
+  },
+  {
+    "pair": 5,
+    "position": 1,
+    "variant": "before",
+    "seed": 20261112,
+    "unix_start_s": 1794052598.876947,
+    "samples": [
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3967125
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5278750
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10630167
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 6546625
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4417208
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5842583
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4877083
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 4137541
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 4460167
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5876459
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5224333
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10793834
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4177333
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3890459
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4475375
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4829334
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 6489083
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 2265125
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10856666
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4701625
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3579042
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5209666
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4150167
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3311167
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5918500
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4323792
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 6603167
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 4406542
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4183000
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10726042
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 6487750
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5799417
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4373792
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5214375
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4815375
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 2451834
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4133042
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4751958
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3227708
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 6480167
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3818209
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5849667
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5266583
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10754500
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4360750
+      }
+    ]
+  },
+  {
+    "pair": 6,
+    "position": 0,
+    "variant": "before",
+    "seed": 20261113,
+    "unix_start_s": 1794052600.134368,
+    "samples": [
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 7076333
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 6416333
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 4128083
+      },
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4204583
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4372750
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5244625
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 3005042
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10669500
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4759458
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4961083
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10598666
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5823209
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4338083
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3038375
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4247250
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3861209
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 6376250
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5278708
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4356167
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4139416
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4795041
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 6573875
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10632875
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 2266959
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5791083
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3886959
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5206750
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10777000
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5894333
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5282000
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 6462917
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4729125
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4150375
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4425833
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 4449333
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3198958
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4273167
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5754291
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10718000
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5227041
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 6513541
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 4336584
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4845959
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4174083
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 2233625
+      }
+    ]
+  },
+  {
+    "pair": 6,
+    "position": 1,
+    "variant": "after",
+    "seed": 20261113,
+    "unix_start_s": 1794052601.378326,
+    "samples": [
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4839167
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5659958
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 3890667
+      },
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3266625
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3525625
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4313792
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 3884125
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10858250
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4890000
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4866083
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10691375
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4780042
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3540000
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 3709250
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3274875
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 2140667
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5676042
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4310667
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3548584
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3269042
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4823667
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5589542
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10677375
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3562000
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4781083
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3848583
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4264334
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10220958
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4832833
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4346500
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5559875
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4907042
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3133583
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3480875
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 2820375
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 3389292
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3632250
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4776250
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10794042
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4254417
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5661792
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 2867666
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4776250
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3219208
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3698834
+      }
+    ]
+  },
+  {
+    "pair": 7,
+    "position": 0,
+    "variant": "after",
+    "seed": 20261114,
+    "unix_start_s": 1794052602.59764,
+    "samples": [
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4796375
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5097708
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4923583
+      },
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3236750
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 4608333
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 2130291
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 3599167
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10509500
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5653875
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 2204083
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4782875
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4859000
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3260125
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5625708
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 3549542
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4884042
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10530292
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 4444000
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3341417
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4812667
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10523666
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4858583
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 3517708
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3822000
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5651416
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4870500
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 2194459
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 4238667
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3597042
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 2187791
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4765916
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 3251709
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4801625
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4867333
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5562917
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10313791
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4855291
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4702750
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3207541
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10567250
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 3450542
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3213708
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5648292
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4787167
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 4195250
+      }
+    ]
+  },
+  {
+    "pair": 7,
+    "position": 1,
+    "variant": "before",
+    "seed": 20261114,
+    "unix_start_s": 1794052603.8134038,
+    "samples": [
+      {
+        "case": "nonvirtual_doubles",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5121333
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5888250
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 5982041
+      },
+      {
+        "case": "virtual_zero",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4329625
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 4861917
+      },
+      {
+        "case": "constructor",
+        "round": 0,
+        "iterations": 65536,
+        "elapsed_ns": 3725000
+      },
+      {
+        "case": "virtual_void",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 4420375
+      },
+      {
+        "case": "static_mixed",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 10706709
+      },
+      {
+        "case": "virtual_object",
+        "round": 0,
+        "iterations": 262144,
+        "elapsed_ns": 6513583
+      },
+      {
+        "case": "constructor",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 2256833
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5262333
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4926084
+      },
+      {
+        "case": "virtual_zero",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4161208
+      },
+      {
+        "case": "virtual_object",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 6492834
+      },
+      {
+        "case": "virtual_void",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 4426500
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 5991291
+      },
+      {
+        "case": "static_mixed",
+        "round": 1,
+        "iterations": 262144,
+        "elapsed_ns": 10788958
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 1,
+        "iterations": 65536,
+        "elapsed_ns": 4128042
+      },
+      {
+        "case": "virtual_zero",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4228417
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5925792
+      },
+      {
+        "case": "static_mixed",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 10692875
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4783292
+      },
+      {
+        "case": "virtual_void",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 4459375
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 3994416
+      },
+      {
+        "case": "virtual_object",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 6497542
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 2,
+        "iterations": 262144,
+        "elapsed_ns": 5193666
+      },
+      {
+        "case": "constructor",
+        "round": 2,
+        "iterations": 65536,
+        "elapsed_ns": 2226333
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 5197666
+      },
+      {
+        "case": "virtual_void",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4401000
+      },
+      {
+        "case": "constructor",
+        "round": 3,
+        "iterations": 65536,
+        "elapsed_ns": 2300292
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4779667
+      },
+      {
+        "case": "virtual_zero",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 4206917
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5235000
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 5934375
+      },
+      {
+        "case": "virtual_object",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 6458709
+      },
+      {
+        "case": "static_mixed",
+        "round": 3,
+        "iterations": 262144,
+        "elapsed_ns": 10870041
+      },
+      {
+        "case": "virtual_four_ints",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5926333
+      },
+      {
+        "case": "nonvirtual_doubles",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 5229833
+      },
+      {
+        "case": "virtual_zero",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4180834
+      },
+      {
+        "case": "static_mixed",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 10786333
+      },
+      {
+        "case": "virtual_void",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4339625
+      },
+      {
+        "case": "constructor",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3274625
+      },
+      {
+        "case": "virtual_object",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 6427291
+      },
+      {
+        "case": "raw_a_four_ints_control",
+        "round": 4,
+        "iterations": 262144,
+        "elapsed_ns": 4804708
+      },
+      {
+        "case": "static_string_conversion",
+        "round": 4,
+        "iterations": 65536,
+        "elapsed_ns": 3926583
+      }
+    ]
+  }
+]

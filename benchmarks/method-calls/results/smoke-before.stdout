@@ -1,0 +1,9 @@
+{"case":"nonvirtual_doubles","round":0,"iterations":1024,"elapsed_ns":108000}
+{"case":"constructor","round":0,"iterations":256,"elapsed_ns":44375}
+{"case":"virtual_object","round":0,"iterations":1024,"elapsed_ns":261458}
+{"case":"static_mixed","round":0,"iterations":1024,"elapsed_ns":340375}
+{"case":"virtual_four_ints","round":0,"iterations":1024,"elapsed_ns":256375}
+{"case":"virtual_zero","round":0,"iterations":1024,"elapsed_ns":168625}
+{"case":"static_string_conversion","round":0,"iterations":256,"elapsed_ns":137583}
+{"case":"raw_a_four_ints_control","round":0,"iterations":1024,"elapsed_ns":247416}
+{"case":"virtual_void","round":0,"iterations":1024,"elapsed_ns":80083}

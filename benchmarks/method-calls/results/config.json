@@ -1,0 +1,7 @@
+{
+  "pairs": 8,
+  "rounds_per_process": 5,
+  "iterations": 262144,
+  "seed": 20261107,
+  "warmup_rounds": 3
+}

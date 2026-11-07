@@ -2,6 +2,14 @@
 
 Compare two fbjni revisions on the same Android device. Both builds use the same C++ probe and Java bytecode. The probe measures virtual, static and nonvirtual calls, object construction and conversion from `std::string` to a Java string. A control calls the four-integer method through handwritten `CallIntMethodA` in both builds. Method lookup happens before timing. Each timed loop includes the wrapper's argument conversion, exception check and local-reference cleanup.
 
+## November 7 results
+
+On an Android 17 arm64 emulator hosted on an Apple M5 Max, the no-argument virtual getter went from 15.9 to 12.4 ns per call. Passing four integers took 22.4 ns before and 18.3 ns after. The static call with eight primitives and one reference had a smaller reduction of 2.2%. The handwritten A control varied by 0.2%. [Full results and paired intervals](results/table.md).
+
+For constructors and `std::string` conversion, the intervals include zero. The constructor result also depended on run order. Its paired reduction was 18.8% when the baseline ran first and -13.6% when the candidate ran first. [Paired medians by run order](results/summary.json).
+
+The run contains 720 timed samples across 16 fresh ART processes. The short CheckJNI runs passed before timing. Build manifests record the two commits, hashes of the measured C++, CMake and Java sources, native binaries and dex. The published build and run scripts additionally clean the variant directory and verify the deployed files before starting ART. [Raw samples](results/runs.json) · [Device](results/device.json) · [Host](results/host.json) · [Baseline build](results/before-build.json) · [Candidate build](results/after-build.json) · [ARM64 assembly](assembly/README.md).
+
 ## Run
 
 Use Python 3.9 or newer, Git, JDK 17, Ninja and the Android SDK. The defaults use NDK `29.0.14206865`, CMake `3.22.1`, SDK platform 36 and build tools `36.0.0`. Set `ANDROID_HOME` and `JAVA_HOME`, and put `ninja` and `adb` on `PATH`. The device or emulator must run Android API 28 or newer. Set `ANDROID_ABI` to match it (default `arm64-v8a`).

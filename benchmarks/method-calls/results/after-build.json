@@ -1,0 +1,25 @@
+{
+  "commit": "b5fd11f530c66153112767e2cb10e3fc7ef5d012",
+  "harness_sha256": {
+    "CMakeLists.txt": "c397d3eeb7429cd569aba870aeef1a3154ed12ddaff80d3718a1c47e15028832",
+    "Probe.cpp": "b1ac61d83284c38b56f77dc664d76aff2ae2b02a10a272700bea442dcd9089e8",
+    "Probe.java": "1953141dd200e833d7a85a43681eb330c6c3ec3c65e597847507021adacc8ab2"
+  },
+  "worktree_snapshot": false,
+  "abi": "arm64-v8a",
+  "android_min_api": 28,
+  "android_compile_sdk": "36",
+  "android_build_tools": "36.0.0",
+  "ndk": "29.0.14206865",
+  "clang": "Android (13989888, +pgo, -bolt, +lto, -mlgo, based on r563880c) clang version 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 5e96669f06077099aa41290cdb4c5e6fa0f59349)",
+  "cmake": "cmake version 3.22.1-g37088a8",
+  "javac": "javac 17.0.21",
+  "configuration": "Release -O3 -DNDEBUG",
+  "sha256": {
+    "libcall-bench.so": "19704fbac477bddd3d5cd82f751d542fa3fe811de949e270d64bd5b921152fe1",
+    "libfbjni.so": "e338a4f4e6feb3d62401ad30c1dfbd2e129a2ef3e4d3589680caba94706673bb",
+    "libc++_shared.so": "0c52cfab2df0d957d8b346a2bdc5ae8d71feca2591924d77e1cd724d5bf74352",
+    "dex/classes.dex": "6167db22d8a989d9955469b6f44fd3f9cc57c578d0548ce603083f88f1b07505"
+  },
+  "fbjni_sources_sha256": "efff53831e6eaf61c9598da5f72dcb02cfb05889264b8d260dd1918a7becc841"
+}

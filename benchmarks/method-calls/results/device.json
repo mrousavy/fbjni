@@ -1,0 +1,11 @@
+{
+  "ro.product.model": "sdk_gphone64_arm64",
+  "ro.product.cpu.abi": "arm64-v8a",
+  "ro.build.version.sdk": "37",
+  "ro.build.version.release": "17",
+  "ro.build.fingerprint": "google/sdk_gphone64_arm64/emu64a:17/CE2A.260420.019/15611780:user/release-keys",
+  "ro.kernel.qemu": "1",
+  "dalvik.vm.usejit": "true",
+  "dalvik.vm.checkjni": "",
+  "debug.checkjni": "0"
+}
